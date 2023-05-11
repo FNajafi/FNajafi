@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FNajafi
+- 👋 Hi, I’m Fridoon Najafi
 - 👀 I’m interested in Data Science, Machine Learning, and Computer Vision projects
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on group projects
